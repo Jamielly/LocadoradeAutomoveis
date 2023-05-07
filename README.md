@@ -2,7 +2,7 @@
 <h3>
 Sobre o projeto 🚥
 </h3>
-Projeto de um site Web com o objetivo de melhorar as técnicas aprendidas em aula sobre desenvolvimento web
+Projeto de um site Web com o objetivo de melhorar as técnicas aprendidas em aula sobre desenvolvimento web, além de manter um modelo de site para possíveis futuros projetos (mais elaborados)
 
 <h3> O que é PCD?♿ </h3>
  PCD é a sigla para Pessoa com Deficiência. Essa expressão é utilizada para se referir a indivíduos que possuem alguma limitação física, mental, intelectual ou sensorial, que pode ser de caráter permanente ou temporário, afetando sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas.
